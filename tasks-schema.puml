@@ -1,0 +1,10 @@
+@startuml Tasks Schema
+entity "users" as users {
+  *id: integer primary key
+  --
+  *nickname: text unique
+  *name: text 
+  *created_at: datetime
+}
+
+@enduml

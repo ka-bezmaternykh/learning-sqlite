@@ -1,0 +1,1 @@
+INSERT INTO users (nickname, name) VALUES ('Heisenberg', 'Walter White')
