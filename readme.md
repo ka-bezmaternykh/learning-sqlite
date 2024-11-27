@@ -8,11 +8,12 @@ Users, Tasks, Assignements, WorkLogs
 
 ### ToDo how to make ToDo 
 - [ ] Define db schema using PlantUML
-- [ ] Provide PowerShell script to create database file and\or to seed database file with default values
+- [ ] Provide PowerShell script to create database file and\or to seed database file with default values under Windows
+- [ ] Provide Bash script to create database file and\or to seed database file with default values under Linux
 - [ ] Push git repository with created file
 
 ### Tooling
-Visual Studio Code, Markdown, PlantUML, git, sqlite, PowerShell
+Visual Studio Code, Markdown, PlantUML, git, sqlite, PowerShell, Bash
 
 ### Design Decisions
 Naming Conventions: 
